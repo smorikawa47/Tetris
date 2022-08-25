@@ -1,0 +1,75 @@
+.container {
+    display: flex;
+}
+
+.score {
+    margin-left: 300px;
+}
+
+.instruction {
+    margin-left: 300px;
+}
+
+.speed {
+    margin-left: 300px;
+}
+
+.buttons {
+    position: fixed;
+    margin-top: 250px;
+}
+
+button {
+    position: relative;
+    margin-left: 300px;
+    width: 30px;
+    height: 30px;
+    font-size: 15px;
+    background-color: green;
+    color: honeydew;
+}
+
+button:hover {
+    background-color: rgb(242, 243, 240);
+    color: grey;
+}
+
+.grid {
+    position: fixed;
+    margin-left: 600px;
+    height: 378px;
+    width: 191px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: white;
+}
+
+.taken {
+    background-color: rgb(98, 98, 96);
+}
+
+.grid div {
+    height: 17px;
+    width: 17px;
+    border: 0.05px solid whitesmoke;
+}
+
+.tetromino {
+    background-color: blue;
+}
+
+.mini-grid {
+    position: fixed;
+    margin-left: 800px;
+    height: 76px;
+    width: 80px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: white;
+}
+
+.mini-grid div {
+    height: 17px;
+    width: 17px;
+    border: 0.05px solid whitesmoke;
+}
