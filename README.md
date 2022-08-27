@@ -1,5 +1,5 @@
 # Tetris 
-<h3><st> You can try the game <a href="https://smorikawa47.github.io/Tetris/">here</a> </st></h3>
+<h3><st> You can play the game <a href="https://smorikawa47.github.io/Tetris/">here</a> </st></h3>
 
 ## Game Instructions
 - Select the **difficulty** by pressing +/- button
