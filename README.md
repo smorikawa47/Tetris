@@ -8,6 +8,4 @@
 - Press ←, →, ↓ to **move** a tetromino
 - Refresh the page to **restart** the game
 
-
-
-<img align="right" src="https://user-images.githubusercontent.com/80607636/187051187-43b01ba2-640e-41a8-a000-428b2c7f9906.png">
+<img align="left" width="500" alt="tetris" src="https://user-images.githubusercontent.com/80607636/187051262-ceba9eee-c7d7-4ce6-8adc-ab2ef6e29ec7.png">
